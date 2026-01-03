@@ -1,0 +1,9 @@
+
+El archivo "BASES DE DATOS" es el excel inicial entregado por el especialista que se sometió a pre procesamiento.
+La "Hoja3" se procesó en R con el uso del "Script_ehm" y se obtuvo como resultado el excel "data_ehm". 
+
+El archivo "data_ehm" es la base de datos final, a partir de la cual se obtuvieron los resulados con el uso
+del Script_ehm_result
+
+
+BASE DE DATOS --> data_ehm
